@@ -35,15 +35,11 @@
 					<key>bundle-identifier</key> 
 					<string>com.smartteamglb.ciaoyoapp</string> 
 					<key>bundle-version</key> 
-					<string>
-						<![CDATA[1.0]]>
-					</string> 
+					<string>1.0</string> 
 					<key>kind</key> 
 					<string>software</string> 
 					<key>title</key> 
-					<string>
-						<![CDATA[中国日报]]>
-					</string> 
+					<string>中国日报</string> 
 				</dict> 
 			</dict> 
 		</array> 

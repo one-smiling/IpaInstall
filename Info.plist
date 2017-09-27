@@ -1,33 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>items</key>
-        <array>
-            <dict>
-                <key>assets</key>
-                <array>
-                    <dict>
-                        <key>kind</key>
-                        <string>software-package</string>
-                        <key>url</key>
-                        <string>https://raw.githubusercontent.com/one-smiling/IpaInstall/master/Ciaoyo.ipa</string>
-                    </dict>
-                </array>
-                <key>metadata</key>
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/one-smiling/IpaInstall/master/Ciaoyo.ipa</string>
+				</dict>
                 <dict>
-                    <key>bundle-identifier</key>
-                    <string>com.smartteamglb.ciaoyoapp</string>
-                    <key>bundle-version</key>
-                    <string>1.0</string>
                     <key>kind</key>
-                    <string>software</string>
-                    <key>releaseNotes</key>
-                    <string>1.1版本发布</string>
-                    <key>title</key>
-                    <string>中国日报</string>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <integer>0</integer>
+                    <key>url</key>
+                    <string>
+                        <![CDATA[http://firicon.fir.im/e2d5b0401f1bbcc9436d4dfd7079f99e0e1fdb75]]>
+                    </string>
                 </dict>
-            </dict>
-        </array>
-    </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true /> 
+                    <key>url</key> 
+                    <string>
+                        <![CDATA[http://firicon.fir.im/e2d5b0401f1bbcc9436d4dfd7079f99e0e1fdb75]]>
+                    </string> 
+                </dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.smartteamglb.ciaoyoapp</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>releaseNotes</key>
+				<string>1.1版本发布</string>
+				<key>title</key>
+				<string>中国日报</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
 </plist>

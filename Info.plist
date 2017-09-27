@@ -19,9 +19,7 @@
 						<key>needs-shine</key> 
 						<integer>0</integer> 
 						<key>url</key> 
-						<string>
-							<![CDATA[http://firicon.fir.im/e2d5b0401f1bbcc9436d4dfd7079f99e0e1fdb75]]>
-						</string> 
+						<string>http://firicon.fir.im/e2d5b0401f1bbcc9436d4dfd7079f99e0e1fdb75</string> 
 					</dict> 
 					<dict> 
 						<key>kind</key> 
@@ -29,9 +27,7 @@
 						<key>needs-shine</key> 
 						<true /> 
 						<key>url</key> 
-						<string>
-							<![CDATA[http://firicon.fir.im/e2d5b0401f1bbcc9436d4dfd7079f99e0e1fdb75]]>
-						</string> 
+						<string>http://firicon.fir.im/e2d5b0401f1bbcc9436d4dfd7079f99e0e1fdb75</string> 
 					</dict> 
 				</array> 
 				<key>metadata</key> 
